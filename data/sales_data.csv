@@ -1,0 +1,9 @@
+OrderID,CustomerID,OrderDate,Product,Quantity,Price
+101,1,2023-01-10,Laptop,1,1200
+102,2,2023-01-15,Phone,2,600
+103,1,2023-02-05,Mouse,3,50
+104,3,2023-02-20,Laptop,1,1200
+105,4,2023-03-10,Tablet,1,500
+106,5,2023-03-15,Phone,1,600
+107,1,2023-04-01,Keyboard,2,150
+108,2,2023-04-20,Laptop,1,1200
